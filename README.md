@@ -1,4 +1,4 @@
-Library Management System - Team F（Member B）
+Library Management System - Team G (Owner)
 Library Management System - Team A
 Library Management System - Team A
 Library Management System - Team A

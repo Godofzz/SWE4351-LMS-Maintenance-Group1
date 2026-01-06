@@ -1,4 +1,4 @@
-Library Management System - Team B
+Library Management System - Team D (Member B)
 Library Management System - Team A
 Library Management System - Team A
 Library Management System - Team A
